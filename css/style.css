@@ -1,0 +1,41 @@
+.resimSlider{
+    height: 600px;
+}
+body {
+    padding-top: 40px;
+    font-family: 'Kanit', sans-serif;
+}
+.hakkimizda{
+    background-color: #f2f2f2;
+}
+.ayrac{
+    border: none;
+    border-top: 4px solid #343a40 ;
+    max-width: 300px;
+    margin: 25px auto;
+}
+.igri{
+    color: #000000;
+    position: relative;
+    top: -55px;
+    font-size: 25px;
+    border: 10px solid#f2f2f2;
+    background-color: #f2f2f2;
+}
+.ibeyaz{
+    color: #000000;
+    position: relative;
+    top: -55px;
+    font-size: 25px;
+    border: 10px solid white;
+    background-color: white;
+}
+.egitmenCard>img:hover{
+    opacity: 0.8;
+}
+.galeri{
+    background-color: #f2f2f2;
+}
+.figure:hover{
+    opacity: 0.8;
+}
